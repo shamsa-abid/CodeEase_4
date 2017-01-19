@@ -1,0 +1,27 @@
+MCSID: 1    Support: 2
+CloneID:  104D:\chatapps\q-municate-android-master\Q-municate_db\src\main\java\com\quickblox\q_municate_db\models\DialogNotification.java
+D:\chatapps\Rocket.Chat.Android-deprecated-develop\RocketChat\rxmeteor\src\main\java\rxmeteor\operations\DataEvent.java
+ 35D:\chatapps\q-municate-android-master\Q-municate_db\src\main\java\com\quickblox\q_municate_db\models\UserRequest.java
+D:\chatapps\Rocket.Chat.Android-deprecated-develop\RocketChat\rc\src\main\java\chat\rocket\rc\models\UrlParts.java
+
+----------------------------
+DialogNotification q-municate-android-master
+DataEvent Rocket.Chat.Android-deprecated-develop
+----------------------------
+UserRequest q-municate-android-master
+UrlParts Rocket.Chat.Android-deprecated-develop
+******************************************************************************************
+MCSID: 2    Support: 2
+CloneID:  247D:\chatapps\BLEMeshChat-master\app\src\main\java\pro\dbro\ble\ui\adapter\PeerAdapter.java
+D:\chatapps\q-municate-android-master\Q-municate_app\src\main\java\com\quickblox\q_municate\ui\adapters\base\BaseRecyclerViewAdapter.java
+ 35D:\chatapps\BLEMeshChat-master\app\src\main\java\pro\dbro\ble\protocol\NoDataPacket.java
+D:\chatapps\q-municate-android-master\Q-municate_db\src\main\java\com\quickblox\q_municate_db\models\UserRequest.java
+
+----------------------------
+notifyPeerRemoved BLEMeshChat-master
+removeItem q-municate-android-master
+----------------------------
+NoDataPacket BLEMeshChat-master
+UserRequest q-municate-android-master
+******************************************************************************************
+Total MCS reported: 2
